@@ -38,7 +38,7 @@ params:
           enabled: true
           title: Suvi Häkkinen, PhD
           subtitle: |
-            I am a neuroscientist with a multidisciplinary background in engineering, psychology, and clinical imaging. As an Assistant Project Scientist at UC Berkeley, I specialize in mesoscale fMRI on the NexGen 7T scanner. My work involves a mix of technical sequence optimization and systems neuroscience, with a research projects investigating questions on hippocampal layer function and large-scale network integration. My academic roots are in engineering (MSc, Aalto University) and auditory neuroscience (PhD, University of Helsinki). I completed postdoctoral training at UCSF and UC Berkeley, specializing in longitudinal modeling of frontotemporal dementia and the structural-functional variability of the cerebral cortex.
+            I am a neuroscientist with a multidisciplinary background in engineering, psychology, and clinical imaging. As an Assistant Project Scientist at UC Berkeley, I specialize in mesoscale fMRI on the NexGen 7T scanner. My work involves a mix of technical sequence optimization and systems neuroscience, with research projects investigating questions on hippocampal layer function and large-scale network integration. My academic roots are in engineering (MSc, Aalto University) and auditory neuroscience (PhD, University of Helsinki). I completed postdoctoral training at UCSF and UC Berkeley, specializing in longitudinal modeling of frontotemporal dementia and the structural-functional variability of the cerebral cortex.
           imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
